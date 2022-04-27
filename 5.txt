@@ -1,0 +1,5 @@
+ i team today we are going to lean abt the monitoring tools 
+
+ 1) nagios 
+ 2) zabbix 
+ 3) grafana etc ... 
