@@ -1,0 +1,5 @@
+i team today we are going to lean about the docker 
+
+in docker we have all code .. 
+
+1) we can use master and slave or nodes concept ..
